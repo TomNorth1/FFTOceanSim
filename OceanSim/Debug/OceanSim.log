@@ -1,0 +1,6 @@
+﻿  main.cpp
+A:\Dissertation\OceanSim\OceanSim\main.cpp(36,3): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+A:\Dissertation\OceanSim\OceanSim\main.cpp(36,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+A:\Dissertation\OceanSim\OceanSim\main.cpp(41,3): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+A:\Dissertation\OceanSim\OceanSim\main.cpp(41,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  OceanSim.vcxproj -> A:\Dissertation\OceanSim\Debug\OceanSim.exe
