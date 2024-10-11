@@ -10,7 +10,7 @@ I was inspired by games such as Sea of theives to study how the FFT works and cr
 * Tiling Ammount
 
 ## Demonstration
-
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF0ZWJ2MWFtb3h3OHM2N2RxdXozdGo3ZzN2bDMwOTVjNW0zbXN5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xs8BNX8vMjWVCVzfEg/giphy.gif)
 
 ## Instructions on how to run
 1. Clone this project
