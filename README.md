@@ -38,5 +38,5 @@ The project was built and tested on Windows 11 and uses the following libraries 
 * wavefront
   
 ## Areas of improvement
-Although the project succesfully implements the FFT to create a realistically animated ocean the shading part of the ocean is rudiementary and in the future improvements to the surface shader could be made to produce a more visually appealing result. 
-The performance is also an area to be worked on as the program suffers when increasing the grid size above 128x128 which is a problem.
+Although the project succesfully implements the FFT to create a realistically animated ocean the shading part of the ocean is rudiementary and in the future improvements to the surface shader could be made to produce a more visually appealing result i.e adding effects such as wave foam at the crests of the waves and using PBR for the water shader to produce physically accurate results. 
+The performance is also an area to be worked on as the program suffers when increasing the grid size above 128x128 which is a problem. Another area of improvement would be to make this simulation produce an "infinite" ocean as this project was originally made with games and other realtime applications in mind which might require the need for an infinite ocean. The tiling of the ocean height field would also need to be addressed if this idea was explored as it is very noticeable at certain angles and becomes more obvious the bigger the ocean gets. This could be done by implementing some sort of noise to the height field to break up the tiling.
